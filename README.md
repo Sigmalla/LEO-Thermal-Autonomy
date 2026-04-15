@@ -1,4 +1,7 @@
+Copyright (c) 2026 Sigmalla / Kristine Kuprevica. All Rights Reserved. Private and Proprietary.
+ 
 # LEO-Thermal-Autonomy
+
 Autonomous Thermal Agents in LEO: Architecting the First Data Centers in the Universe
 
 Transitioning to the space-based Artificial Intelligence infrastructure reveals a critical 'Thermal Wall.'
