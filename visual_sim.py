@@ -1,4 +1,7 @@
-"""Visual simulation of an Autonomous Thermal Agent in LEO.
+"""
+Copyright (c) 2026 Sigmalla / Kristine Kuprevica. All Rights Reserved. Private and Proprietary.
+
+Visual simulation of an Autonomous Thermal Agent in LEO.
 
 This module provides a graphical representation of a satellite utilizing
 predictive shielding while orbiting Earth.
