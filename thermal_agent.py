@@ -1,4 +1,7 @@
-"""Module for simulating autonomous thermal management in LEO compute nodes.
+"""
+Copyright (c) 2026 Sigmalla / Kristine Kuprevica. All Rights Reserved. Private and Proprietary.
+
+Module for simulating autonomous thermal management in LEO compute nodes.
 
 This module implements a predictive 'Survival Instinct' logic that modulates
 regenerative coolant flow based on external solar flux intensity to prevent 
