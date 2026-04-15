@@ -1,4 +1,5 @@
 Copyright (c) 2026 Sigmalla / Kristine Kuprevica. All Rights Reserved. Private and Proprietary.
+This code is a Proof-of-Concept for a patent-pending architecture. All rights are reserved. Unauthorized use or distribution is prohibited.
  
 # LEO-Thermal-Autonomy
 
